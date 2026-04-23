@@ -1,3 +1,3 @@
 DATE=$(date)
 
-echo "Time stamp executed: $date"
+echo "Time stamp executed: $DATE"

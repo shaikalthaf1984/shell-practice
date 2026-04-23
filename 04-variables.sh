@@ -1,3 +1,5 @@
+#!/bin/bash
+#Arguements
 
 person1=$1
 person2=$2

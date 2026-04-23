@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "course="shell scripting"
+echo course="shell scripting"
